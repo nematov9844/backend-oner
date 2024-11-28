@@ -1,0 +1,176 @@
+{
+    "hero": {
+      "id": 1,
+      "title": "Оригинальные автомасла со скидкой 15% ₽",
+      "description": "Акция действует с 1 по 30 июня 2021"
+    },
+    "categories":
+     [      {
+        "id": 1,
+        "name": "Оригинальные запчасти",
+        "products_count": 730
+      },
+      {
+        "id": 2,
+        "name": "Неоригинальные запчасти",
+        "products_count": 278
+      },
+      {
+        "id": 3,
+        "name": "Запчасти ВАЗ, ГАЗ, КАМАЗ",
+        "products_count": 730
+      },
+      {
+        "id": 4,
+        "name": "Кузовные запчасти",
+        "products_count": 730
+      },
+      {
+        "id": 5,
+        "name": "Запчасти для ТО",
+        "products_count": 730
+      },
+      {
+        "id": 6,
+        "name": "Автостёкла",
+        "products_count": 730
+      },
+      {
+        "id": 7,
+        "name": "Автомасла",
+        "products_count": 730
+      },
+      {
+        "id": 8,
+        "name": "Автохимия",
+        "products_count": 730
+      },
+      {
+        "id": 9,
+        "name": "Диски",
+        "products_count": 730
+      },
+      {
+        "id": 10,
+        "name": "Аккумуляторы",
+        "products_count": 730
+      },
+      {
+        "id": 11,
+        "name": "Автолампы",
+        "products_count": 730
+      },
+      {
+        "id": 12,
+        "name": "Поставщикам",
+        "products_count": 730
+      }
+    ],
+    "auto_oils": [
+      {
+        "id": 1,
+        "image": "",
+        "title": "Артикул: 153789",
+        "description": "Mobil SUPER 3000 X1 5W-40, 1 л. Масло моторное.",
+        "price": "2 334 ₽"
+      },
+      {
+        "id": 2,
+        "image": "",
+        "title": "Артикул: 153789",
+        "description": "Mobil SUPER 3000 X1 5W-40, 1 л. Масло моторное.",
+        "price": "2 334 ₽"
+      },
+      {
+        "id": 3,
+        "image": "",
+        "title": "Артикул: 153789",
+        "description": "Mobil SUPER 3000 X1 5W-40, 1 л. Масло моторное.",
+        "price": "2 334 ₽"
+      },
+      {
+        "id": 4,
+        "image": "",
+        "title": "Артикул: 153789",
+        "description": "Mobil SUPER 3000 X1 5W-40, 1 л. Масло моторное.",
+        "price": "2 334 ₽"
+      }
+    ],
+    "recommended": [
+      {
+        "id": 1,
+        "name": "Mobil SUPER 3000 X1 5W-40, 1 л. Масло моторное",
+        "article": "153789",
+        "rating": 4.0,
+        "reviews": 51,
+        "current_price": 2334,
+        "old_price": 2864,
+        "currency": "₽",
+        "action": "В корзину"
+      },
+      {
+        "id": 2,
+        "name": "Mobil SUPER 3000 X1 5W-40, 1 л. Масло моторное",
+        "article": "153789",
+        "rating": 4.0,
+        "reviews": 51,
+        "current_price": 2234,
+        "old_price": 2864,
+        "currency": "₽",
+        "action": "В корзину"
+      },
+      {
+        "id": 3,
+        "name": "Mobil SUPER 3000 X1 5W-40, 1 л. Масло моторное",
+        "article": "153789",
+        "rating": 4.0,
+        "reviews": 51,
+        "current_price": 1334,
+        "old_price": 2864,
+        "currency": "₽",
+        "action": "В корзину"
+      },
+      {
+        "id": 4,
+        "name": "Mobil SUPER 3000 X1 5W-40, 1 л. Масло моторное",
+        "article": "153789",
+        "rating": 4.0,
+        "reviews": 51,
+        "current_price": 4357,
+        "old_price": 2864,
+        "currency": "₽",
+        "action": "В корзину"
+      }
+    ],
+    "fast_sold": [
+      {
+        "id": 1,
+        "title": "Артикул: 153789",
+        "description": "Mobil SUPER 3000 X1 5W-40, 1 л. Масло моторное.",
+        "current_price": "2 864 ₽",
+        "old_price": "4 357 ₽"
+      },
+      {
+        "id": 2,
+        "title": "Артикул: 153789",
+        "description": "Mobil SUPER 3000 X1 5W-40, 1 л. Масло моторное.",
+        "current_price": "2 864 ₽",
+        "old_price": "4 357 ₽"
+      },
+      {
+        "id": 3,
+        "title": "Артикул: 153789",
+        "description": "Mobil SUPER 3000 X1 5W-40, 1 л. Масло моторное.",
+        "current_price": "2 864 ₽",
+        "old_price": "4 357 ₽"
+      },
+      {
+        "id": 4,
+        "title": "Артикул: 153789",
+        "description": "Mobil SUPER 3000 X1 5W-40, 1 л. Масло моторное.",
+        "current_price": "2 864 ₽",
+        "old_price": "4 357 ₽"
+      }
+    ]
+  }
+  
