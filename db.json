@@ -2,7 +2,7 @@
     "hero": {
       "id": 1,
       "title": "Оригинальные автомасла со скидкой 15% ₽",
-      "description": "Акция действует с 1 по 30 июня 2021"
+      "description": "Акция действует с 1 по 30 июня 2021",
       "imagie":"https://raw.githubusercontent.com/nematov9844/backend-oner/refs/heads/main/imagies/hero.png"
     },
     "categories":
